@@ -1,0 +1,21 @@
+utterance,pos_neg,pos_neg_neutral
+What is your name?,positive,neutral
+What is your favorite color?,positive,neutral
+What is your favorite hobby?,positive,neutral
+What is your favorite food?,positive,neutral
+What is your weakness?,negative,negative
+What is your favorite movie?,positive,neutral
+What is your favorite sport?,positive,neutral
+What is your favorite car?,positive,neutral
+What is your favorite memory?,positive,neutral
+What is your favorite vacation spot?,positive,neutral
+Who was your favorite teacher?,positive,neutral
+What is your favorite game?,positive,neutral
+What is your favorite dessert?positive,neutral
+What is your favorite job so far?positive,neutral
+What is your favorite subject in school?positive,neutral
+What is your favorite restaurant?positive,neutral
+What is your favorite number?positive,neutral
+What is your greatest accomplishment?positive,neutral
+What is a country you would like to visit?positive,neutral
+What is a pet peeve that you have?negative,negative
